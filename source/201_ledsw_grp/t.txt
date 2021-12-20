@@ -1,0 +1,5 @@
+/* RaspberryPi 4 for Automotive IoT Kit
+ * File : i2c_exp_ledsw.c
+ * Auth : mkdev.co.kr / Maketools
+ * ment : LED Switch Control example in I2C base GPIO Expander */
+
